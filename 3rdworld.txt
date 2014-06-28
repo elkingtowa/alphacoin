@@ -1,0 +1,93 @@
+develop html wallet for this currency
+
+The way in which Bitcoin typically gets portrayed, it often conjures up images of rich techies, American libertarians, and European depositors preparing for the worst. But this focus on Bitcoin as a first-world project ignores the enormous potential it holds as a tool for economic development. The world's poorest have unique challenges when it comes to financial services, and Bitcoin has the potential to meet at least some of these challenges more quickly and at less cost than any other tool currently available.
+
+Basic financial services can be hard to come by in the developing world. Many regions simply don't have the abundance of branch banks found in more developed countries and this lack of financial infrastructure is a major impediment to economic growth. While advances in mobile banking have provided easier ways to send and receive payment, Bitcoin could majorly expand on existing services and do so in a way that directly integrates users with the global economy.
+
+In the mobile payment sector, M-Pesa is the dominant player. The service was launched as a development tool in Kenya and allows individuals to store balances, make payments, and send money all through their cell phones. Customers can take cash to an M-Pesa agent who then credits it to their account; getting cash back works the same way but in reverse. Individuals can send and receive payments to any other M-Pesa customer in about the time it takes to send a text.
+
+This technology has hugely impacted the lives of Kenyans, Tanzanians, Indians, and Afghans who otherwise would not have access to any commercial banking services at all. It's also familiarized these populations with a tool that, at least on the user end, functions similarly to Bitcoin.
+
+Already comfortable with mobile technology, developing countries like those above might be particularly well suited to adopting Bitcoin. But where M-Pesa is a closed payment system, Bitcoin constitutes a globally available payment network. Bitcoin's global reach means it could economically connect people on a level previously unheard of and at tremendous cost savings compared to existing options.
+
+Bitcoin could positively impact development in another way as well.
+
+Funds sent back home by migrant workers are a major source of financial aid to the global poor. In 2012 alone, migrant workers sent $372 billion back to their home countries, an amount that outstrips even total foreign direct investment for the same year. But the costs of sending money home can run as high as 20% of the actual remittance due to the expense of existing services. But because Bitcoins can be sent from practically anywhere to anywhere at almost no cost, it could substantially increase the funds being put directly into the hands of the poor.
+
+Workers in the developed world might use Bitcoin more as a means of transferring funds than as money per se. For example, funds earned in the U.S. could be exchanged for Bitcoin and then sent to the recipient, who then changes them back into whatever currency is most appropriate for his or her local market ... all in potentially less than an hour. On the volatility side, exchanging in and out of Bitcoin in such a short time frame shields users from most major price swings.
+
+The same process could be used by entrepreneurs to do business with partners formerly well beyond their reach; again, the focus here is on Bitcoin's value purely as a payment platform, not as a replacement for any existing monetary system.
+
+For the time being, the population of Bitcoin users will probably remain residents of the developed world, although middle-income countries like Argentina may soon expand out the user base. But if and when Bitcoin grows to the point of truly international acceptance, it may be the world's poorest that stand to gain the most.
+
+What do Argentina, Bolivia, Brazil, Peru, and Zimbabwe have in common? Each of these countries have experienced preposterous inflation in recent history. Zimbabwe, the poster child for runaway inflation, posted an official rate that reached 66,212% in 2007, which eventually hit 79,600,000% per month a year later.
+
+The Same Old Game
+
+This is sadly a common theme in the developing world. Authoritarian governments spend more than they have, their central banks create a lot of new money to finance these debts, and people are forced to use the junk currency.
+
+The results are always the same: poverty. No amount of foreign aid can alleviate this kind of suffering, because it is created and sustained by bad governance, by dominance of economic life by those in charge.
+
+Enter Bitcoin
+
+Bitcoin (BTC) is the new game in town that offers to liberate mankind from this repetitive nightmare. By taking currency out of the hands of government monopolies, people in the world’s poorest countries no longer have to rely on the good behavior of their central banks.
+
+Worse than simply destroying a national currency, governments in the process of massive debasement always create laws to prevent regular people from saving themselves. For instance, in 2000-2001 when the Argentine government destroyed its peso, the government decided to outlaw owning foreign currencies.
+
+Bitcoin is a fully decentralized, peer-to-peer currency; basically, a unit of measure that has unchangeable rules governed by mathematical certainty, rather than political whim. There are currently 11.4 million BTC in existence, out of a total of 21.5 million planned by the year 2140. This will never change.
+
+Since its inception in 2009, bitcoin has gone from nothing to a current price just under USD 100 per BTC. For people who choose to store their savings in BTC, this means that the price of goods and services have been rapidly declining over the last few years.
+
+Paper monies issued by governments all tend to make their citizens poorer over time because there are never limits to the printing; this is most evident throughout the developing world. If the world’s most desperate people are to have a chance at escaping poverty, they must first have access to honest money.
+
+Last July, at the Inside Bitcoins conference in New York City, one speaker in particular made a comment that caused the loudest round of applause in the entire conference when he said: “This country was founded on a separation of church and state.  I think we should also add separation of bank and state.”  It was Alan Safahi, founder and CEO of ZipZap, Inc., a San Francisco-based start-up that aims to revolutionize international money transfers around the world.
+
+Alan has graciously accepted to talk about his company, his vision and the future of digital currencies.
+
+Juan: Please tell us about your background and how you got involved with Bitcoin.
+
+Alan: I am a serial entrepreneur with 28+ years of experience with several start-ups under my belt in technology, telecommunications and financial services.  I was an early adopter in the evolution of prepaid cards in the 1990s, so I have been part of the problem for the longest time!  I got involved with Bitcoin in 2010 and have since been a vocal supporter and activist of digital currencies. I currency sit on the Advisory Board of Ripple (another digital currency platform) and am a founding member of Digital Asset Transfer Authority.  My company, ZipZap, is the largest cash payment network in the world serving digital currencies, making it easier for consumers to buy Bitcoins locally in their neighborhoods using local currency.
+
+ What really ticked me off was learning that the most disadvantaged customers in the poorest countries, who need money more than anyone else, were being charged the highest fees.  I thought something had to be done to narrow the gap between the rich and the poor which was widening at an increasingly rapid pace each year.  The challenge seemed insurmountable until decentralized digital currencies like bitcoin came along a few years ago to make it possible for the first time to transfer wealth across the globe without the need of a third party.  Although a person-to-person bitcoin transfer in third world countries may still be a few years away, the infrastructure is now available to make this a possibility.  There are very few opportunities in one’s life to create something so big that can impact billions of people and save millions of lives with relatively little effort.  So there really is no excuse for me not to get involved!
+
+Juan: What are the opportunities you see for Zipzap, in particular, and for virtual currencies in general?
+
+Alan: ZipZap is the largest cash payment in the world with 700,000 payment centers worldwide and growing to over 2 million locations in 50+ countries to take cash in and soon over 90+ countries to take cash out.  Having built a network that allows us to have both the “cash-in” and “cash-out” solutions at a very reasonable cost, we just needed to build an infrastructure in-between that does not rely on traditional banks and money transfer companies like Western Union and MoneyGram.  Bitcoin provides this bridge instantaneously, at no cost, and in a transparent manner.  It is really the perfect way to transfer money globally.
+
+Bitcoin’s main purpose is to send money across long distances, directly from one person to another, removing the middleman and greatly reducing costs in time, money and privacy.  We believe that eventually, Bitcoin will be adopted by populations en masse. Some may even skip entire generations of currency, going directly from only using cash, to using Bitcoin, missing out credit and debit cards altogether. In doing so they will also avoid the problems associated with card payments. Credit and debit cards are outdated; they were created before the internet whereas Bitcoins have been designed with ecommerce in mind so they are much easier to use.
+
+For people in developing nations who have never had easy access to banks and other financial services, Bitcoin opens up whole new markets and opportunities. As well as having access to a safe place to store capital, consumers will be able to buy items from abroad without having to worry about exchange rates, fees and all the other problems associated with purchasing products in a foreign currency.
+
+Aside from the consumer benefits that I’ve already mentioned, there is huge potential for entrepreneurs in developing nations to build businesses around Bitcoin by helping to develop its on-the-ground infrastructure. For example, one of the main uses for digital currency is to send funds from one country to another, perhaps from an individual worker, to his or her family abroad. This requires infrastructure at both ends of the transaction. The Bitcoins that are sent home will need to be exchanged into local currency using special bank accounts or applications. In areas where these are harder to access there is an opportunity for entrepreneurs to set up facilities, perhaps a kiosk or other service, to enable people to convert their Bitcoins.
+
+Interestingly, the countries that have the highest use of Bitcoin so far aren’t necessarily the richest. Such countries include Macedonia and Mongolia, which has a user base four times as high as the United States, and Ukraine, where programmers, for example, are often paid for services in the digital currency. This is arguably because Bitcoin provides a solution to difficulties which are less common in the ‘developed world’. In 2011 for example, due to disputes with the Reserve Bank of India, Paypal restricted the maximum possible transaction value for its Indian users to US$500, increasing this to US$3,000 later in the year. Anyone providing online services with a value greater than this can instead be paid virtually using Bitcoin.
+
+Mobile payment schemes are another popular method of exchanging capital, particularly in poorer countries. MPesa is currently the most developed mobile money transfer system in the world and it is a good example of how the technology has been adopted to make financial systems in developing nations more efficient. It has demonstrated its weakness, however, in a number of server failures, preventing users that rely on its services, from sending or receiving payments.
+
+Bitcoins can also be sent or received on mobile phones, running on top of services such as Coinapult which allows users to manage them by SMS text message. It can therefore provide the same service as MPesa but without the risk of server failure, plus it’s cheaper, faster to use and more private.
+
+As financial institutions, banking and payments systems change to fit in with the growing developments brought about by the rise of the internet, it is inevitable that digital currencies such as Bitcoin will play an increasingly important role in our day to day lives. But those that stand to benefit most are those in developing nations. Bitcoin will provide a secure way to store money, the ability to buy and sell products and services abroad opening up whole new markets, along with countless other opportunities for both consumers and entrepreneurs. Most importantly however, Bitcoin gives us the freedom to exchange capital with whomever we want, wherever we want, and that in itself is extremely powerful and currently denies to the majority of the world’s rural poor.
+
+With an ever-growing number of Bitcoin exchanges and businesses that choose to incorporate Bitcoin currency into how they get paid by their customers, Bitcoin may very well soon end up becoming the method of choice for the international fund transfer. It should also go without saying that when this happens the inhabitants of the so-called “third world” will benefit most.
+
+Is Bitcoin set to win over the hearts and minds of the public in developing countries sooner and more overwhelmingly than in the West? As difficult as it is to predict something like this, the perfect conditions for this could be found in most of the developing world; e.g. fairly under-developed banking services, large informal economy, high inflation, often stifling regulations, excessive charges for international remittance services … the list is long. With all this being the case the advantages of Bitcoin and the solutions  it brings to these problems will not go unnoticed for much longer.
+
+Mobile phones already help these folks survive the hard conditions. Many use old feature phones and increasingly simple smart phones. They use solar panels and dynamos to charge them. It helps all areas of life, but most notably commerce. Being able to call in to markets before landing your fishing boat to see which market will take your catch optimizes the business and reduces waste.
+
+The most important element of trade is still missing: an effective and safe e-currency. The small wages do not make it profitable for traditional banks to offer services to these workers and merchants. In result lots of people in Africa and Asia are seriously under-banked.
+
+M-pesa, an innovative mobile payment system in Kenya is doing most of the financial transactions in the country. Using M-pesa is much better than having to walk days to deliver the salary home to the family, but the fees are high. People spend an average of 10% of their income on remittances.
+
+10% saving may not seem significant but when you earn $30 a month, a $3 saving can mean education for your child or better food that allows them not to lose eyesight because of Vitamin E deficiency.
+
+Bitcoin with its extremely low transfer fees set by the sender (average 0.1% or free if not urgent) can be the currency that people can use without the need for bank accounts or mobile operators.
+
+The benefits of Bitcoin aren't just the savings. It's also the global acceptance. People in third world countries with bitcoin wallets can join the world economy and start receiving payments for services they can perform through the internet or receive micro-loans for projects that could help their communities.
+
+Another important aspect of Bitcoin is safety from local governments. There are lots of rogue agents in developing countries who manipulate government currencies. Hyper-inflation is a serious risk. Recently it resulted in 100 trillion dollar banknotes in Zimbabwe. Governments can take people's assets, savings and retirement funds even in relatively developed countries like it was recently demonstrated in Cyprus and Hungary.
+
+Mobile phones can protect against misinformation by the government. Bitcoin can protect against evil politicians who want to steal your hard earned wealth in various ways. If you have a smart phone with your wallet protected by a password and backed up to the cloud your wealth is safe even if you are forced to strip naked and give up your phone, and thrown in jail for 2 years. If you are ever released you can recover your wallet with your earnings or your funds can be automatically sent to your loved ones after a certain set amount of time.
+
+Creating more wealth and safety in the developing world not only satisfies our inborn altruistic needs. It is also indirectly beneficial to all of us. If we want a sustainable future for Earth we must use all tools available to alleviate the problems and bitcoin is a key element. Watch the presentation by Andreas Antonopoulos who explains this aspect of bitcoin well.
+
+

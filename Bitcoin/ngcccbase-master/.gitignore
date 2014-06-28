@@ -1,0 +1,11 @@
+*.pyc
+*.bak
+.DS_Store
+*.db
+*~
+.*project
+*.egg-info/
+.*.sw?
+
+/build
+/dist

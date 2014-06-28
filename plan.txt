@@ -1,0 +1,6 @@
+* IDEA / PROBLEM: A description of the idea, which global issue it addresses, and why you believe it represents an opportunity for impact, as well as a detailed sense of any progress you have made pursuing the venture to date (partners, customers, team, etc.)
+* The members of the team and resumes / bios / roles
+* PLAN: A description of the product / programs / services you intend to provide 
+* IMPACT: Your specific hypotheses about the underlying causes of the problem you are attacking, the reasons why you hold those hypotheses, why you believe your proposed solution will work, what data will constitute a confirmation or disconfirmation of those hypotheses, and how you will collect and analyze that data
+* SUSTAINABILITY: A detailed accounting of the specific resources you will need to accomplish this, the identified sources of those resources (e.g., web developers, prototypes, etc.) and the cost of those resources. Also indicate what resources you may already have raised or invested in the venture. During the second stage of the Challenge, you may be asked to produce invoices or receipts to show how the original prize money was invested in pursuing your proposal.
+* What specific results the first-stage $5,000 prize money is designed to provide and how the results will help the team progress with executing the proposal to provide solutions.

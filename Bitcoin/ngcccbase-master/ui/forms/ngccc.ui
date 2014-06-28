@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>850</width>
+    <height>550</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ngcccbase-gui</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="topLayout">
+    <item>
+     <widget class="QStackedWidget" name="stackedWidget"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>850</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>&amp;File</string>
+    </property>
+    <addaction name="actionRescan"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <addaction name="menuFile"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>40</width>
+     <height>40</height>
+    </size>
+   </property>
+   <property name="toolButtonStyle">
+    <enum>Qt::ToolButtonTextBesideIcon</enum>
+   </property>
+   <property name="floatable">
+    <bool>false</bool>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionGotoOverview"/>
+   <addaction name="actionGotoSendcoins"/>
+   <addaction name="actionGotoAssets"/>
+   <addaction name="actionGotoReceive"/>
+   <addaction name="actionP2PTrade"/>
+  </widget>
+  <action name="actionGotoOverview">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../icons/overview.png</normaloff>../icons/overview.png</iconset>
+   </property>
+   <property name="text">
+    <string>Overview</string>
+   </property>
+   <property name="toolTip">
+    <string>Change to Overview page</string>
+   </property>
+  </action>
+  <action name="actionGotoSendcoins">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../icons/send.png</normaloff>../icons/send.png</iconset>
+   </property>
+   <property name="text">
+    <string>Send</string>
+   </property>
+   <property name="toolTip">
+    <string>Change to Send coins page</string>
+   </property>
+  </action>
+  <action name="actionGotoAssets">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../icons/assets.png</normaloff>../icons/assets.png</iconset>
+   </property>
+   <property name="text">
+    <string>Assets</string>
+   </property>
+   <property name="toolTip">
+    <string>Change to Assets page</string>
+   </property>
+  </action>
+  <action name="actionGotoReceive">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../icons/receive.png</normaloff>../icons/receive.png</iconset>
+   </property>
+   <property name="text">
+    <string>Receive</string>
+   </property>
+   <property name="toolTip">
+    <string>Change to Receive page</string>
+   </property>
+  </action>
+  <action name="actionP2PTrade">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../icons/trade.png</normaloff>../icons/trade.png</iconset>
+   </property>
+   <property name="text">
+    <string>P2P Trade</string>
+   </property>
+   <property name="toolTip">
+    <string>Change to P2P Trade page</string>
+   </property>
+  </action>
+  <action name="actionRescan">
+   <property name="text">
+    <string>update</string>
+   </property>
+   <property name="toolTip">
+    <string>update data</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="icon">
+    <iconset>
+     <normalon>../icons/quit.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>&amp;Exit</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::QuitRole</enum>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
